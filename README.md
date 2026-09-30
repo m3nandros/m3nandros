@@ -6,7 +6,7 @@
 
 ### Experience
 
-**AI Center of PSNRU — lead researcher, head of research direction**
+**AI Center, PSNRU — lead researcher, head of research direction**
 
 Industrial projects for Rosatom, ER-Telecom, and Motiv NT: design of language models grounded in compositional semantics, RAG platforms, and computer-vision systems. Joint work with Motiv NT (manufacturer of neuromorphic chips) on onboard neuromorphic architectures under a cooperation agreement.
 
