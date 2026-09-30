@@ -4,14 +4,14 @@
   <strong>Mathematician · AI researcher · ML engineer</strong>
 </p>
 
----
-
 ### Experience
 
-**AI Center — lead researcher, head of research direction**
+**AI Center of PSNRU — lead researcher, head of research direction**
+
 Industrial projects for Rosatom, ER-Telecom, and Motiv NT: design of language models grounded in compositional semantics, RAG platforms, and computer-vision systems. Joint work with Motiv NT (manufacturer of neuromorphic chips) on onboard neuromorphic architectures under a cooperation agreement.
 
 **INTER PROGRAM LLC — data analyst intern**
+
 Business analytics, reporting, ML models on corporate data.
 
 ### Research
