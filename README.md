@@ -10,7 +10,7 @@
 
 Industrial projects for Rosatom, ER-Telecom, and Motiv NT: design of language models grounded in compositional semantics, RAG platforms, and computer-vision systems. Joint work with Motiv NT (manufacturer of neuromorphic chips) on onboard neuromorphic architectures under a cooperation agreement.
 
-**INTER PROGRAM LLC — data analyst intern**
+**INTER PROGRAM LLC — data analyst**
 
 Business analytics, reporting, ML models on corporate data.
 
