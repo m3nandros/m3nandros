@@ -26,15 +26,12 @@ Business analytics, reporting, ML models on corporate data.
 ### Selected projects
 
 **Osanwe** — translation of scientific papers directly from LaTeX sources, preserving formulas, figures, tables, bibliography, and layout. Pipeline: nested-source expansion, formula and figure masking, semantic chunking, XeLaTeX assembly with self-repair from compiler logs, CJK support, prompt caching.
-
 `Python` · `LLM` · `LaTeX` · [GitHub](https://github.com/m3nandros/osanwe)
 
 **Categorical Language Models & DisCoMamba** — development of an interpretable language model in which meaning is composed from grammatical structure. Extension of DisCoCat to Russian syntax and generation; the hybrid DisCoMamba architecture.
-
 `DisCoCat` · `lambeq` · `Mamba` · `Categorical Semantics`
 
 **Search-and-rescue drone** — autonomous search for people and traces of habitation (EMERCOM problem statement): frame segmentation (ResNet), detection (YOLO), onboard neuromorphic architecture. One 4K–8K frame processed in ~0.25 s. Special nomination “Best-Engineered Solution” at the Archipelago 2025 hackathon.
-
 `ResNet` · `YOLO` · `Neuromorphic Systems`
 
 ### Publications and talks
@@ -81,6 +78,27 @@ Business analytics, reporting, ML models on corporate data.
   <img src="https://img.shields.io/badge/R-1F2328?style=for-the-badge" alt="R" />
   <img src="https://img.shields.io/badge/C++-1F2328?style=for-the-badge" alt="C++" />
 </p>
+
+#### Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-1F2328?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1F2328?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-1F2328?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Linux-1F2328?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/LaTeX-1F2328?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-1F2328?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+**Spoken languages:** Russian · English · Chinese (HSK-1)
+
+### Contact
+
+<p align="left">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/m3nandros">GitHub</a> ·
+  <a target="_blank" rel="noopener noreferrer" href="mailto:george.vikhlyaev@icloud.com">Email</a> ·
+  <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0009-0008-7364-0734">ORCID</a>
+</p></p>
 
 #### Engineering
 
