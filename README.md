@@ -96,7 +96,8 @@ Business analytics, reporting, ML models on corporate data.
 ### Contact
 
 <p>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/m3nandros">GitHub</a> ·
+  <a target="_blank" rel="noopener noreferrer" href="https://t.me/m3nandre>Telegram</a> ·
+  <a targe="_blank" rel="noopener noreferrer" href="https://x.com/aresultore">X</a> ·
   <a target="_blank" rel="noopener noreferrer" href="mailto:george.vikhlyaev@icloud.com">Email</a> ·
   <a target="_blank" rel="noopener noreferrer" href="https://orcid.org/0009-0008-7364-0734">ORCID</a>
 </p>
